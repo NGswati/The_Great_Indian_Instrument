@@ -1,0 +1,126 @@
+body {
+  text-align: center;
+  background-color: #e8872d;
+}
+
+.set{
+  margin-top: 20px;
+}
+
+#title {
+  font-size: 3rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #DA0463;
+  background-color: #e8872d;
+  border: none;
+  padding-top: 70px;
+  padding: 55px;
+  background-image:  url("images/indidancer.png");
+  background-repeat: no-repeat;
+}
+
+footer {
+  color: #DBEDF3;
+  font-family: sans-serif;
+  text-shadow: 3px 0 #DA0463;
+}
+
+h6{
+  margin-top: 1px;;
+}
+
+
+.a {
+  background-image: url("images/ADholki.png");
+}
+
+.b {
+  background-image: url("images/Basuri.png");
+}
+
+.d {
+  background-image: url("images/Dholak.png");
+}
+
+.h {
+  background-image: url("images/Harmonium.png");
+}
+
+.j {
+  background-image: url("images/JhanjKartal.png");
+}
+
+.k {
+  background-image: url("images/KSantoor.png");
+}
+
+.l {
+  background-image: url("images/LSarangi.png");
+}
+
+.m {
+  background-image: url("images/Mridangam.png");
+}
+
+.n {
+  background-image: url("images/NSarod.png");
+}
+
+.o {
+  background-image: url("images/Osaxophone.png");
+}
+
+.p {
+  background-image: url("images/PShehnai.png");
+}
+
+.q {
+  background-image: url("images/QshrutiBox.png");
+}
+
+.r {
+  background-image: url("images/RSitar.png");
+}
+
+.s {
+  background-image: url("images/Swarmandal.png");
+}
+
+.t {
+  background-image: url("images/Tanpura.png");
+}
+
+.v {
+  background-image: url("images/Veena.png");
+}
+
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: .7;
+  background-color: #d80e0e !important;
+}
+
+
+
+.ins {
+  outline: none;
+  border: 10px solid #e8872d;
+  font-size: 3rem;
+  font-family: 'Arvo', cursive;
+  line-height: 3;
+  font-weight: 900;
+  color: #DBEDF3;
+  text-shadow: 3px 0 #DA0463;
+  border-radius: 15px;
+  display: inline-block;
+  text-align: center;
+  background-color: #e8872d;
+  width: 16.3%; 
+  height: 145px; 
+  border: none;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
